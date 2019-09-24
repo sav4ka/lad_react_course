@@ -18,10 +18,9 @@ return(  <>
     <Column field={field[3]}/>
     <Column field={field[4]}/>
     <Column field={field[5]}/>
-    <Column field={field[6]}/>
+
 </>
 );
 
 }
 export default App;
-
